@@ -1,10 +1,11 @@
-# Proyecto Cyrus
+---
+title: MSA 180
+---
 
-En honor al personaje Cyrus Smith de Jules Verne.
+# Proyecto MSA
 
-Desarrollando el sistema scada MSA **M**ega **S**cada **A**nde 
-
->1.0.1-beta
+Desarrollando el sistema scada **M**odulo **S**cada para la **A**nde (MSA 180).
+*"Energía que transforma, supervisión que lidera."*
 
 ## 1. Introduccion
 
@@ -18,7 +19,9 @@ El software debe de poder adquirir senalizaciones desde ciertos protocolos de co
 
 ## 2. Personal involucrado
 
-El personal involucrado corresponde al Departamento de Mantenimiento de Sistemas de Control, de las Seccion de Sistemas de Control indicados por sus siglas DTE/MCO2.
+El personal involucrado corresponde al Departamento de Mantenimiento de Sistemas de Control, de las Seccion de 
+Sistemas de Control indicados por sus siglas DTE/MCO2, pudiendose extender a otros desarrolladores de la ANDE que 
+quisieran participar.
 
 ## 3. Restricciones de diseño e implementación
 
@@ -33,12 +36,12 @@ Las limitantes para esta primera version del software, van relacionadas a la cap
 
 * **Tabla de cantidad de protocolos y sus registros maximos**
 
-| Descripcion                                                      | Cantidad de controlador | Valores maximos                                   |
-|------------------------------------------------------------------|------------------------:|---------------------------------------------------|
-| La máxima cantidad de usos del protocolo Modbus                  |             20 unidades | máximo 20 registros por cada controlador          |
-| La máxima cantidad de usos del protocolo IEC-61850               |             15 unidades | máximo 250 registros por cada controlador         |
-| La máxima cantidad de usos del protocolo IEC-104 Maestro/Esclavo |              2 unidades | máximo 1.500 señales para el Maestro o el Esclavo |
-| La máxima cantidad de usos del protocolo DNP.3 Maestro           |              6 unidades | máximo 200 registros por cada controlador         |
+| Descripcion                                                         | Cantidad de controlador | Valores maximos                                   |
+|---------------------------------------------------------------------|------------------------:|---------------------------------------------------|
+| La máxima cantidad de usos del protocolo Modbus                     |             20 unidades | máximo 20 registros por cada controlador          |
+| La máxima cantidad de usos del protocolo IEC-61850 Cliente/Servidor |             15 unidades | máximo 250 registros por cada controlador         |
+| La máxima cantidad de usos del protocolo IEC-104 Maestro/Esclavo    |              2 unidades | máximo 1.500 señales para el Maestro o el Esclavo |
+| La máxima cantidad de usos del protocolo DNP.3 Maestro              |              6 unidades | máximo 200 registros por cada controlador         |
 
 Los demas protocolos y esclavos que no se tipifican en este apartado son descartados por no ser de uso comun en la ANDE. Sin embargo se puede realizar el analisis de factibilidad para nuevos protocolos.
 
@@ -74,15 +77,15 @@ Los requisitos basicos del hardware son:
 
 Los requisitos de software son:
 
-| Nombre                | Aplicaciones                                                     |
-|-----------------------|------------------------------------------------------------------|
-| Apache Cassandra      | para la base de datos de las señalizaciones y del historico      |
-| Apache Kafka          | para el manejo de las señalizaciones en tiempo real              |
-| Debian 12 o posterior | para la plataforma operativa del sistema                         |
-| JavaFX 17             | para el entorno del despliegue                                   |
-| JavaServer Faces      | para el modulo de mantenimiento y entorno de acceso al historico |
-| Lenguaje C            | para los modulos del driver                                      |
-| PostgreSQL 15         | para el entorno del historico; pgadmin4 (solo para desarrollo)   |
+| Nombre                   | Aplicaciones                                                     |
+|--------------------------|------------------------------------------------------------------|
+| Apache Cassandra         | para la base de datos de las señalizaciones en tiempo real       |
+| Apache Kafka             | para el manejo de las señalizaciones en tiempo real              |
+| AlmaLinux 9 o posterior  | para la plataforma operativa del sistema                         |
+| JavaFX 17                | para el entorno de los Unifilares                                |
+| JavaServer Faces         | para el modulo de mantenimiento y entorno de acceso al historico |
+| Lenguaje C, Golang       | para los modulos del driver y servicios APIs                     |
+| PostgreSQL 15            | para el entorno del historico; pgadmin4 (solo para desarrollo)   |
 
 ### 4.5. Interfaces de las comunicaciones
 
