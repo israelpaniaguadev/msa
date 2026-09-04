@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>MSA:DISP</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <link rel='stylesheet' type='text/css' media='screen' href='btsp/css/bootstrap.css'>
+    <script src="btsp/js/bootstrap.js"></script>
+    <script src='load.js'></script>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <!--        header    -->
+        <div class="row">
+            <div class="col col-1">
+                <div class="container-fluid">
+                    <div class="col h1 fw-bold font-monospace">ACE</div>
+                    <a href="base.html" class="btn btn-dark text-info fw-bold" id="cReturn">Volver</a>
+                </div>
+            </div>
+            <!-- column created -->
+            <div class="col col-2">
+                <div class="row">
+                    <div class="col text-end fw-bold">Creado</div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Fecha</div>
+                    <div class="col font-monospace text-start">31-12-2023</div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Hora</div>
+                    <div class="col font-monospace text-start">23:59:00</div>
+                </div>
+                <div class="row">
+                    <div class="col text-end text-secondary">Personal</div>
+                    <div class="col font-monospace text-start">11975</div>
+                </div>
+            </div>
+            <!-- updated -->
+            <div class="col col-2">
+                <div class="row">
+                    <div class="col text-end fw-bold">Modificado</div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Fecha</div>
+                    <div class="col font-monospace text-start">31-12-2023</div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Hora</div>
+                    <div class="col font-monospace text-start">23:59:00</div>
+                </div>
+                <div class="row">
+                    <div class="col text-end text-secondary">Personal</div>
+                    <div class="col font-monospace text-start">11975</div>
+                </div>
+            </div>
+            <!-- stadistics -->
+            <div class="col col-2">
+                <div class="row">
+                    <div class="col  text-end fw-bold">Estadisticos</div>
+                    <div class="col "></div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Analogas</div>
+                    <div class="col  font-monospace text-start">114</div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Discretas</div>
+                    <div class="col  font-monospace text-start">1.240</div>
+                </div>
+                <div class="row">
+                    <div class="col text-end text-secondary">Commandos</div>
+                    <div class="col  font-monospace text-start">84</div>
+                </div>
+                <div class="row">
+                    <div class="col text-end text-secondary">Totales</div>
+                    <div class="col  font-monospace text-start">1.438</div>
+                </div>
+            </div>
+            <!-- protocols -->
+            <div class="col col-2">
+                <div class="row">
+                    <div class="col text-end fw-bold">Protocolos</div>
+                    <div class="col "></div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Modbus</div>
+                    <div class="col  font-monospace text-start">3, 120</div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">IEC-60780-5-104</div>
+                    <div class="col  font-monospace text-start">1, 1.252</div>
+                </div>
+                <div class="row">
+                    <div class="col text-end text-secondary">IEC-61850</div>
+                    <div class="col  font-monospace text-start">1, 533</div>
+                </div>
+                <div class="row">
+                    <div class="col text-end text-secondary">DNP3</div>
+                    <div class="col  font-monospace text-start">0, 0</div>
+                </div>
+            </div>
+            <!-- column workspace -->
+            <div class="col col-2">
+                <div class="row">
+                    <div class="col text-end fw-bold">Espacio de trabajo</div>
+                    <div class="col"></div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Verificaciones</div>
+                    <div class="col font-monospace text-start">21</div>
+                </div>
+                <div class="row">
+                    <div class="col  text-end text-secondary">Identificador</div>
+                    <div class="col font-monospace text-start">WSP3</div>
+                </div>
+                <div class="row">
+                    <div class="col text-end text-secondary">Estado</div>
+                    <div class="col font-monospace text-start">Bloqueado</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row text-start font-monospace" style="color: orange;" id="tMessage">
+        <div class="col">
+            message return from the system
+        </div>
+    </div>
+    <hr class="border border-2 border-light">
+
+    <!-- #region -->
+    <div class="container-fluid">
+        <div class="accordion accordion-flush" id="accordionFlushExample">
+            <div class="row">
+                <div class="col-1"></div>
+                <p class="col fw-bold">Acciones para este proyecto</p>
+            </div>
+
+            <!-- #region repaldos -->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-info collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseBackup" aria-expanded="false"
+                                aria-controls="flush-collapseBackup">
+                                Respaldos
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Para realizar una copia de seguridad o restaurar todos los datos de este proyecto
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseBackup" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col col-1 p-2">
+                                <div class="progress" style="height: 5px;">
+                                    <div class="progress-bar text-bg-light" id="#bar-backup"></div>
+                                </div>
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info"
+                                    onclick="setLoad('#bar-backup')">Respaldar</button>
+                            </div>
+                            <div class="col col-2 p-2 font-monospace">
+                                31-12-2023 23:59:00
+                            </div>
+                            <div class="col p-2 font-monospace">
+                                output to /var/local/msa-backup.tgz
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col col-1 p-2">
+                                <div class="progress" style="height: 5px;">
+                                    <div class="progress-bar text-bg-light" id="#bar-restore"></div>
+                                </div>
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info"
+                                    onclick="setLoad('#bar-restore')">Restaurar</button>
+                            </div>
+                            <div class="col col-2  p-2 font-monospace">
+                                31-12-2023 23:59:00
+                            </div>
+                            <div class="col p-2 font-monospace">
+                                input from /var/local/msa-backup.tgz
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- #region delete-->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row ">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-danger collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseEight" aria-expanded="false"
+                                aria-controls="flush-collapseEight">
+                                Eliminar
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Eliminar este proyecto por completo. No se puede deshacer.
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseEight" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="row">
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col">
+                            ¿Estás seguro de eliminar este proyecto?
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-1 btn btn-dark text-danger">
+                            Si
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- #region logs -->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row ">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-info collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseLogs" aria-expanded="false"
+                                aria-controls="flush-collapseLogs">
+                                Logs
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Para ver registros
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseLogs" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-1">
+
+                            </div>
+                            <div class="col-1">
+                                <button class="btn btn-dark text-info">Ver</button>
+                            </div>
+                            <p class="col p-2 font-monospace">
+                                /var/logs/msa/20241231-2359.log
+                            </p>
+                        </div>
+                        <div class="row">
+                            <div class="col col-1 p-2">
+                                <div class="progress" style="height: 5px;">
+                                    <div class="progress-bar text-bg-light" id="#bar-logs"></div>
+                                </div>
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info" onclick="setLoad('#bar-logs')">Cargar</button>
+                            </div>
+                            <div class="col col-2 p-2 font-monospace">
+                                31-12-2023 23:59:00
+                            </div>
+                            <div class="col colp-2 font-monospace">
+                                /var/logs/msa/<input class="col col-2 font-monospace" value="20241231-2359">.log
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- #region modeling -->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row ">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-info collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseFive" aria-expanded="false"
+                                aria-controls="flush-collapseFive">
+                                Modeling
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Para modelar todas las señales de este proyecto.
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseFive" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                </div>
+            </div>
+
+            <!-- #region remote-->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row ">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-info collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseTwo" aria-expanded="false"
+                                aria-controls="flush-collapseTwo">
+                                Remoto
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Para obtener la configuración o establecer la configuración desde el equipo remoto.
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col col-1 p-2 font-monospace">
+                                <div class="progress" style="height: 5px;">
+                                    <div class="progress-bar text-bg-light" id="#bar-get"></div>
+                                </div>
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info" onclick="setLoad('#bar-get')">Recibir</button>
+                            </div>
+                            <div class="col col-2 p-2 font-monospace">
+                                31-12-2023 23:59:00
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col col-1 p-2 font-monospace">
+                                <div class="progress" style="height: 5px;">
+                                    <div class="progress-bar text-bg-light" id="#bar-set"></div>
+                                </div>
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info" onclick="setLoad('#bar-set')">Enviar</button>
+                            </div>
+                            <div class="col col-2 p-2 font-monospace">
+                                31-12-2023 23:59:00
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- #region services-->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row ">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-info collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseServices" aria-expanded="false"
+                                aria-controls="flush-collapseServices">
+                                Servicios
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Para controlar el estado de los protocolos.
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseServices" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col col-1 p-2">
+                                <div class="progress" style="height: 5px;">
+                                    <div class="progress-bar text-bg-light" id="#bar-start"></div>
+                                </div>
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info" onclick="setLoad('#bar-start')">Iniciar</button>
+                            </div>
+                            <div class="col col-2 p-2 font-monospace">
+                                31-12-2023 23:59:00
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col col-1 p-2">
+                                <div class="progress" style="height: 5px;">
+                                    <div class="progress-bar text-bg-light" id="#bar-stop"></div>
+                                </div>
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info" onclick="setLoad('#bar-stop')">Detener</button>
+                            </div>
+                            <div class="col col-2 p-2 font-monospace">
+                                31-12-2023 23:59:00
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- #region settings -->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row ">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-info collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseFour" aria-expanded="false"
+                                aria-controls="flush-collapseFour">
+                                Configuraciones
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Para configurar los parámetros de los protocolos.
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseFour" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                </div>
+            </div>
+
+            <!-- #region viewer-->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row ">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-info collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseThree" aria-expanded="false"
+                                aria-controls="flush-collapseThree">
+                                Valores
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Para ver los valores en ejecución
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseThree" class="accordion-collapse collapse"
+                    data-bs-parent="#accordionFlushExample">
+                </div>
+            </div>
+
+            <!-- #region workspace-->
+            <div class="accordion-item">
+                <div class="accordion-header">
+                    <div class="row ">
+                        <div class="col col-1 text-end">
+                            <button class="btn btn-dark text-info collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#flush-collapseOne" aria-expanded="false"
+                                aria-controls="flush-collapseOne">
+                                Trabajo
+                            </button>
+                        </div>
+                        <div class="col p-2 text-start text-secondary">
+                            Operaciones con este espacio de trabajo
+                        </div>
+                    </div>
+                </div>
+                <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col col-1 p-2 font-monospace">
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info">Anterior</button>
+                            </div>
+                            <div class="col col-1 p-2 font-monospace">
+                                WSP3
+                            </div>
+                            <div class="col">
+                                <button class="btn btn-dark text-info">Siguiente</button>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col col-1 p-2">
+                                <div class="progress" style="height: 5px;">
+                                    <div class="progress-bar text-bg-light" id="#bar-verify"></div>
+                                </div>
+                            </div>
+                            <div class="col col-1">
+                                <button class="btn btn-dark text-info"
+                                    onclick="setLoad('#bar-verify')">Verificar</button>
+                            </div>
+                            <div class="col col-1 p-2 font-monospace">
+                                07
+                            </div>
+                            <div class="col p-2 font-monospace">
+                                31-12-2023 23:59:00
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+ 
+
+
+        </div>
+    </div>
+</body>
+
+</html>

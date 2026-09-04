@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="960"
+   viewBox="0 0 1280 959.99999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="disp-meters.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#b6b6b6"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.70750654"
+     inkscape:cx="585.1536"
+     inkscape:cy="448.7591"
+     inkscape:window-width="1600"
+     inkscape:window-height="1092"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true"
+     shape-rendering="auto">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       empspacing="16"
+       originx="0"
+       originy="0"
+       dotted="false"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1376">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop1372" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop1374" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1376"
+       id="linearGradient1378"
+       x1="76.774605"
+       y1="190.19801"
+       x2="263.47772"
+       y2="190.19801"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4,-164)" />
+  </defs>
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.999999"
+       id="rect870"
+       height="959"
+       x="0.5"
+       y="0.5"
+       width="1279"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="footer"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178"
+       width="160"
+       height="32"
+       x="15.890266"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="38.362232"
+       y="940.41162"
+       id="text148-0-1-5-759"><tspan
+         sodipodi:role="line"
+         id="tspan2360"
+         x="38.362232"
+         y="940.41162">Comunicacion</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2"
+       width="160"
+       height="32"
+       x="192.44186"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="233.70584"
+       y="940.4516"
+       id="text148-0-1-5-759-8"><tspan
+         sodipodi:role="line"
+         id="tspan2679"
+         x="233.70584"
+         y="940.4516">Unifilar</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7"
+       width="160"
+       height="32"
+       x="367.64661"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="414.72659"
+       y="940.41162"
+       id="text148-0-1-5-759-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan2681"
+         x="414.72659"
+         y="940.41162">Alarmas</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7-1"
+       width="160"
+       height="32"
+       x="544.10809"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="590.94806"
+       y="940.41162"
+       id="text148-0-1-5-759-8-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan2683"
+         x="590.94806"
+         y="940.41162">Medidas</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7-1-3"
+       width="160"
+       height="32"
+       x="719.65411"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="723.13409"
+       y="940.41162"
+       id="text148-0-1-5-759-8-3-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan2685"
+         x="723.13409"
+         y="940.41162">Datos Historicos</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7-1-3-4"
+       width="160"
+       height="32"
+       x="896.7998"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="943.27979"
+       y="940.04358"
+       id="text148-0-1-5-759-8-3-2-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan2691"
+         x="943.27979"
+         y="940.04358">Eventos</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7-1-3-4-4"
+       width="160"
+       height="32"
+       x="1072.9349"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="1129.4149"
+       y="940.13959"
+       id="text148-0-1-5-759-8-3-2-1-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan2732"
+         x="1129.4149"
+         y="940.13959">Otros</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="body"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="body-bars"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#483e37;stroke:none;stroke-width:0.999996"
+         id="rect1745-2-8"
+         width="1147.2021"
+         height="31.671459"
+         x="50.38332"
+         y="210.56427" />
+      <rect
+         style="display:inline;fill:#483e37;stroke:none;stroke-width:0.999996"
+         id="rect1745-2-8-5"
+         width="1147.2021"
+         height="31.671459"
+         x="51.521385"
+         y="265.98636" />
+      <rect
+         style="display:inline;fill:#483e37;stroke:none;stroke-width:0.999996"
+         id="rect1745-2-8-1"
+         width="1147.2021"
+         height="31.671459"
+         x="50.978088"
+         y="381.03699" />
+      <rect
+         style="display:inline;fill:#483e37;stroke:none;stroke-width:0.999996"
+         id="rect1745-2-8-5-0"
+         width="1147.2021"
+         height="31.671459"
+         x="50.978088"
+         y="436.45908" />
+      <rect
+         style="display:inline;fill:#483e37;stroke:none;stroke-width:0.999996"
+         id="rect1745-2-8-1-8"
+         width="1147.2021"
+         height="31.671459"
+         x="50.978088"
+         y="494.15201" />
+      <rect
+         style="display:inline;fill:#483e37;stroke:none;stroke-width:0.999996"
+         id="rect1745-2-8-5-0-7"
+         width="1147.2021"
+         height="31.671459"
+         x="50.978088"
+         y="549.5741" />
+      <rect
+         style="display:inline;fill:#483e37;stroke:none;stroke-width:0.999996"
+         id="rect1745-2-8-1-8-6"
+         width="1147.2021"
+         height="31.671459"
+         x="50.978088"
+         y="604.09149" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="body-numbers"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+         x="226.64043"
+         y="170.89505"
+         id="text148-0-1-5-9-6"><tspan
+           sodipodi:role="line"
+           id="tspan2131"
+           x="226.64043"
+           y="170.89505">Corrientes R S T</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+         x="636.76331"
+         y="170.89505"
+         id="text148-0-1-5-9-6-8"><tspan
+           sodipodi:role="line"
+           id="tspan2133"
+           x="636.76331"
+           y="170.89505">Tensiones R S T</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+         x="1016.8142"
+         y="170.89505"
+         id="text148-0-1-5-9-6-8-9"><tspan
+           sodipodi:role="line"
+           id="tspan2168"
+           x="1016.8142"
+           y="170.89505">Potencias</tspan></text>
+      <rect
+         style="display:inline;fill:none;stroke:#999999;stroke-width:1"
+         id="rect1745"
+         width="390.09048"
+         height="154.53769"
+         x="154.58571"
+         y="145.78571" />
+      <rect
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.999996"
+         id="rect1745-2"
+         width="1048.3667"
+         height="31.671459"
+         x="153.99283"
+         y="145.78571" />
+      <rect
+         style="display:inline;fill:none;stroke:#999999;stroke-width:0.999996"
+         id="rect1745-6"
+         width="269.40479"
+         height="153.67618"
+         x="932.95953"
+         y="145.78571" />
+      <g
+         id="g2188"
+         transform="translate(25.877858,18)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5"><tspan
+             sodipodi:role="line"
+             id="tspan4139"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0"><tspan
+             sodipodi:role="line"
+             id="tspan1658"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5"><tspan
+             sodipodi:role="line"
+             id="tspan1998"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2"><tspan
+             sodipodi:role="line"
+             id="tspan2000"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan2003"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7"><tspan
+             sodipodi:role="line"
+             id="tspan2005"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9"><tspan
+             sodipodi:role="line"
+             id="tspan2007"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-0"
+         style="display:inline"
+         transform="translate(25.877858,47.23235)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-2"><tspan
+             sodipodi:role="line"
+             id="tspan4139-3"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-7"><tspan
+             sodipodi:role="line"
+             id="tspan1658-5"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-9"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-2"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-2"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-8"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan1998-7"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan2000-6"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-1"><tspan
+             sodipodi:role="line"
+             id="tspan2003-2"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-9"><tspan
+             sodipodi:role="line"
+             id="tspan2005-3"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-1"><tspan
+             sodipodi:role="line"
+             id="tspan2007-9"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-4"
+         style="display:inline"
+         transform="translate(25.877858,75.275204)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-7"><tspan
+             sodipodi:role="line"
+             id="tspan4139-8"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-4"><tspan
+             sodipodi:role="line"
+             id="tspan1658-50"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-3"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-6"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-10"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-6"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-3"><tspan
+             sodipodi:role="line"
+             id="tspan1998-2"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-0"><tspan
+             sodipodi:role="line"
+             id="tspan2000-61"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-5"><tspan
+             sodipodi:role="line"
+             id="tspan2003-5"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-4"><tspan
+             sodipodi:role="line"
+             id="tspan2005-7"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-6"><tspan
+             sodipodi:role="line"
+             id="tspan2007-5"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-4-6"
+         style="display:inline"
+         transform="translate(25.877858,105.36568)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-7-9"><tspan
+             sodipodi:role="line"
+             id="tspan4139-8-3"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-4-7"><tspan
+             sodipodi:role="line"
+             id="tspan1658-50-4"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-3-5"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-6-2"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-10-5"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-6-4"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-3-7"><tspan
+             sodipodi:role="line"
+             id="tspan1998-2-4"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-0-4"><tspan
+             sodipodi:role="line"
+             id="tspan2000-61-3"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-5-0"><tspan
+             sodipodi:role="line"
+             id="tspan2003-5-7"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-4-8"><tspan
+             sodipodi:role="line"
+             id="tspan2005-7-6"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-6-8"><tspan
+             sodipodi:role="line"
+             id="tspan2007-5-8"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <rect
+         style="display:inline;fill:none;stroke:#999999;stroke-width:0.999999"
+         id="rect1745-4"
+         width="390.09048"
+         height="313.27621"
+         x="153.07666"
+         y="379.31494" />
+      <rect
+         style="display:inline;fill:none;stroke:#999999;stroke-width:0.999996"
+         id="rect1745-6-3"
+         width="269.40479"
+         height="313.25241"
+         x="931.4505"
+         y="379.31494" />
+      <g
+         id="g2188-1"
+         transform="translate(24.368796,245.52921)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-4"><tspan
+             sodipodi:role="line"
+             id="tspan4139-9"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-2"><tspan
+             sodipodi:role="line"
+             id="tspan1658-0"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-6"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-8"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-2"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-6"><tspan
+             sodipodi:role="line"
+             id="tspan1998-6"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-4"><tspan
+             sodipodi:role="line"
+             id="tspan2000-9"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-50"><tspan
+             sodipodi:role="line"
+             id="tspan2003-4"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-8"><tspan
+             sodipodi:role="line"
+             id="tspan2005-71"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-7"><tspan
+             sodipodi:role="line"
+             id="tspan2007-2"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-1-4"
+         transform="translate(25.111201,219.1133)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-4-4"><tspan
+             sodipodi:role="line"
+             id="tspan4139-9-4"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-2-7"><tspan
+             sodipodi:role="line"
+             id="tspan1658-0-6"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-6-3"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-8-1"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-9-7"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-2-5"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-6-9"><tspan
+             sodipodi:role="line"
+             id="tspan1998-6-6"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-4-2"><tspan
+             sodipodi:role="line"
+             id="tspan2000-9-1"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-50-7"><tspan
+             sodipodi:role="line"
+             id="tspan2003-4-8"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-8-5"><tspan
+             sodipodi:role="line"
+             id="tspan2005-71-7"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-7-4"><tspan
+             sodipodi:role="line"
+             id="tspan2007-2-1"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+         x="57.679756"
+         y="458.14636"
+         id="text148-0-1-5-2-2"><tspan
+           sodipodi:role="line"
+           id="tspan4139-3-2"
+           x="57.679756"
+           y="458.14636">Equipo 01</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+         x="168.77582"
+         y="458.65836"
+         id="text148-0-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan1658-5-1"
+           x="168.77582"
+           y="458.65836">99.999,99 A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+         x="297.9678"
+         y="458.65836"
+         id="text148-0-36-9-0"><tspan
+           sodipodi:role="line"
+           id="tspan1658-7-2-6"
+           x="297.9678"
+           y="458.65836">99.999,99 A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+         x="423.5202"
+         y="458.65836"
+         id="text148-0-36-5-2-1"><tspan
+           sodipodi:role="line"
+           id="tspan1658-7-3-8-5"
+           x="423.5202"
+           y="458.65836">99.999,99 A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+         x="552.15753"
+         y="458.65836"
+         id="text148-0-5-9-9"><tspan
+           sodipodi:role="line"
+           id="tspan1998-7-4"
+           x="552.15753"
+           y="458.65836">99.999,99 KV</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+         x="681.34949"
+         y="458.65836"
+         id="text148-0-36-2-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan2000-6-0"
+           x="681.34949"
+           y="458.65836">99.999,99 KV</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+         x="806.90192"
+         y="458.65836"
+         id="text148-0-36-5-1-1-9"><tspan
+           sodipodi:role="line"
+           id="tspan2003-2-1"
+           x="806.90192"
+           y="458.65836">99.999,99 KV</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+         x="939.80988"
+         y="458.65836"
+         id="text148-0-5-7-9-7"><tspan
+           sodipodi:role="line"
+           id="tspan2005-3-7"
+           x="939.80988"
+           y="458.65836">99.999,99 MW</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+         x="1069.0018"
+         y="458.65836"
+         id="text148-0-36-2-9-1-1"><tspan
+           sodipodi:role="line"
+           id="tspan2007-9-1"
+           x="1069.0018"
+           y="458.65836">99.999,99 VAR</tspan></text>
+      <g
+         id="g2188-4-5"
+         style="display:inline"
+         transform="translate(24.368796,302.80441)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-7-97"><tspan
+             sodipodi:role="line"
+             id="tspan4139-8-7"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-4-6"><tspan
+             sodipodi:role="line"
+             id="tspan1658-50-7"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-3-3"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-6-6"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-10-56"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-6-3"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-3-9"><tspan
+             sodipodi:role="line"
+             id="tspan1998-2-48"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-0-1"><tspan
+             sodipodi:role="line"
+             id="tspan2000-61-2"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan2003-5-3"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-4-9"><tspan
+             sodipodi:role="line"
+             id="tspan2005-7-0"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-6-88"><tspan
+             sodipodi:role="line"
+             id="tspan2007-5-5"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-4-6-0"
+         style="display:inline"
+         transform="translate(24.368796,332.89489)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-7-9-9"><tspan
+             sodipodi:role="line"
+             id="tspan4139-8-3-6"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-4-7-3"><tspan
+             sodipodi:role="line"
+             id="tspan1658-50-4-8"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-3-5-5"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-6-2-6"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-10-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-6-4-1"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-3-7-5"><tspan
+             sodipodi:role="line"
+             id="tspan1998-2-4-9"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-0-4-8"><tspan
+             sodipodi:role="line"
+             id="tspan2000-61-3-4"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-5-0-8"><tspan
+             sodipodi:role="line"
+             id="tspan2003-5-7-1"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-4-8-0"><tspan
+             sodipodi:role="line"
+             id="tspan2005-7-6-3"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-6-8-0"><tspan
+             sodipodi:role="line"
+             id="tspan2007-5-8-4"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-1-8"
+         transform="translate(22.839995,384.31461)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-4-5"><tspan
+             sodipodi:role="line"
+             id="tspan4139-9-9"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-2-75"><tspan
+             sodipodi:role="line"
+             id="tspan1658-0-3"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-6-8"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-8-8"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-9-3"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-2-1"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-6-8"><tspan
+             sodipodi:role="line"
+             id="tspan1998-6-9"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-4-6"><tspan
+             sodipodi:role="line"
+             id="tspan2000-9-4"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-50-3"><tspan
+             sodipodi:role="line"
+             id="tspan2003-4-3"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-8-3"><tspan
+             sodipodi:role="line"
+             id="tspan2005-71-8"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-7-6"><tspan
+             sodipodi:role="line"
+             id="tspan2007-2-0"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-1-4-4"
+         transform="translate(23.582395,357.8987)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-4-4-8"><tspan
+             sodipodi:role="line"
+             id="tspan4139-9-4-8"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-2-7-8"><tspan
+             sodipodi:role="line"
+             id="tspan1658-0-6-9"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-6-3-7"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-8-1-7"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-9-7-6"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-2-5-4"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-6-9-3"><tspan
+             sodipodi:role="line"
+             id="tspan1998-6-6-0"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-4-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan2000-9-1-0"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-50-7-9"><tspan
+             sodipodi:role="line"
+             id="tspan2003-4-8-2"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-8-5-5"><tspan
+             sodipodi:role="line"
+             id="tspan2005-71-7-4"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-7-4-0"><tspan
+             sodipodi:role="line"
+             id="tspan2007-2-1-5"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-0-7-9"
+         style="display:inline"
+         transform="translate(22.839995,413.54696)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-2-2-4"><tspan
+             sodipodi:role="line"
+             id="tspan4139-3-2-6"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-7-6-9"><tspan
+             sodipodi:role="line"
+             id="tspan1658-5-1-2"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-9-0-2"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-2-6-4"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-2-1-7"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-8-5-7"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-9-9-5"><tspan
+             sodipodi:role="line"
+             id="tspan1998-7-4-4"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-3-9-8"><tspan
+             sodipodi:role="line"
+             id="tspan2000-6-0-1"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-1-9-2"><tspan
+             sodipodi:role="line"
+             id="tspan2003-2-1-8"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-9-7-9"><tspan
+             sodipodi:role="line"
+             id="tspan2005-3-7-3"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-1-1-6"><tspan
+             sodipodi:role="line"
+             id="tspan2007-9-1-8"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-4-5-0"
+         style="display:inline"
+         transform="translate(22.839995,441.58981)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-7-97-2"><tspan
+             sodipodi:role="line"
+             id="tspan4139-8-7-1"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-4-6-0"><tspan
+             sodipodi:role="line"
+             id="tspan1658-50-7-5"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-3-3-1"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-6-6-1"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-10-56-0"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-6-3-8"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-3-9-5"><tspan
+             sodipodi:role="line"
+             id="tspan1998-2-48-0"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-0-1-6"><tspan
+             sodipodi:role="line"
+             id="tspan2000-61-2-4"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-5-9-6"><tspan
+             sodipodi:role="line"
+             id="tspan2003-5-3-2"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-4-9-5"><tspan
+             sodipodi:role="line"
+             id="tspan2005-7-0-8"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-6-88-6"><tspan
+             sodipodi:role="line"
+             id="tspan2007-5-5-2"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+      <g
+         id="g2188-4-6-0-8"
+         style="display:inline"
+         transform="translate(22.839995,471.68029)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+           x="33.310959"
+           y="183.3848"
+           id="text148-0-1-5-7-9-9-4"><tspan
+             sodipodi:role="line"
+             id="tspan4139-8-3-6-7"
+             x="33.310959"
+             y="183.3848">Equipo 01</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="144.40703"
+           y="183.89679"
+           id="text148-0-4-7-3-2"><tspan
+             sodipodi:role="line"
+             id="tspan1658-50-4-8-4"
+             x="144.40703"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="273.599"
+           y="183.89679"
+           id="text148-0-36-3-5-5-0"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-6-2-6-6"
+             x="273.599"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="399.1514"
+           y="183.89679"
+           id="text148-0-36-5-10-5-1-2"><tspan
+             sodipodi:role="line"
+             id="tspan1658-7-3-6-4-1-9"
+             x="399.1514"
+             y="183.89679">99.999,99 A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="527.78876"
+           y="183.89679"
+           id="text148-0-5-3-7-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan1998-2-4-9-0"
+             x="527.78876"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="656.98071"
+           y="183.89679"
+           id="text148-0-36-2-0-4-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan2000-61-3-4-1"
+             x="656.98071"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="782.53314"
+           y="183.89679"
+           id="text148-0-36-5-1-5-0-8-3"><tspan
+             sodipodi:role="line"
+             id="tspan2003-5-7-1-1"
+             x="782.53314"
+             y="183.89679">99.999,99 KV</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="915.4411"
+           y="183.89679"
+           id="text148-0-5-7-4-8-0-1"><tspan
+             sodipodi:role="line"
+             id="tspan2005-7-6-3-0"
+             x="915.4411"
+             y="183.89679">99.999,99 MW</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+           x="1044.6331"
+           y="183.89679"
+           id="text148-0-36-2-9-6-8-0-3"><tspan
+             sodipodi:role="line"
+             id="tspan2007-5-8-4-4"
+             x="1044.6331"
+             y="183.89679">99.999,99 VAR</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="515.1499"
+       y="114.5954"
+       id="text148-0-1-5-9"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan1441"
+         x="515.1499"
+         y="114.5954">Tabla de Mediciones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="986.84521"
+       y="113.26409"
+       id="text148-0-1-5-9-0"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan4158"
+         x="986.84521"
+         y="113.26409">Tabla de Mediciones 2</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="header"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#483737;fill-opacity:1;stroke:none;stroke-width:3.8802;stroke-opacity:1"
+       id="rect1617"
+       width="1280"
+       height="16"
+       x="0"
+       y="0" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-opacity:1"
+       id="rect1896-2"
+       width="499"
+       height="63"
+       x="390.5"
+       y="15.376877" />
+    <g
+       id="g900"
+       transform="matrix(0.56868431,0,0,1,-28.40843,-143.99219)"
+       style="display:inline;stroke-width:1.32606">
+      <rect
+         style="fill:#f9f9f9;stroke:none;stroke-width:1.32606"
+         id="rect421"
+         width="118.24286"
+         height="48"
+         x="59.342789"
+         y="167.20952" />
+      <rect
+         style="display:inline;fill:#aa0000;stroke:none;stroke-width:1.32606"
+         id="rect421-3"
+         width="118.24286"
+         height="14"
+         x="59.342789"
+         y="166.08571" />
+      <rect
+         style="display:inline;fill:#000080;stroke:none;stroke-width:1.32606"
+         id="rect421-3-6"
+         width="118.24286"
+         height="14"
+         x="59.342789"
+         y="201.20952" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';display:inline;fill:#808000;stroke:none"
+       x="15.560303"
+       y="52.741547"
+       id="text956"><tspan
+         sodipodi:role="line"
+         id="tspan954"
+         x="15.560303"
+         y="52.741547"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none">ANDE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="159.89178"
+       y="32.612083"
+       id="text148"><tspan
+         sodipodi:role="line"
+         id="tspan5470">01-12-2023 19:33:54</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="488.19992"
+       y="53.630878"
+       id="text-title"
+       inkscape:label="text-title"><tspan
+         sodipodi:role="line"
+         id="tspan2002"
+         x="488.19992"
+         y="53.630878">{nombre-de-la-estacion}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="160.0067"
+       y="60.41853"
+       id="text148-7"><tspan
+         sodipodi:role="line"
+         id="tspan1791"
+         x="160.0067"
+         y="60.41853">XxxxxxxxxxxXxxxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="1000.2848"
+       y="59.336258"
+       id="text148-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan5468">Urgente</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="1001.0167"
+       y="31.590004"
+       id="text148-7-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan5282">Telemando</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="31.053823"
+       y="13.910095"
+       id="text148-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan1902"
+         x="31.053823"
+         y="13.910095">MSA v24</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="97.206711"
+       y="32.612083"
+       id="text148-2"><tspan
+         sodipodi:role="line"
+         id="tspan1563"
+         x="97.206711"
+         y="32.612083">Fecha:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="78.006699"
+       y="60.41853"
+       id="text148-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan1739"
+         x="78.006699"
+         y="60.41853">Usuario:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="918.68457"
+       y="31.94639"
+       id="text148-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan2124"
+         x="918.68457"
+         y="31.94639">Control:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="928.28473"
+       y="59.336258"
+       id="text148-2-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan2195"
+         x="928.28473"
+         y="59.336258">Alarma:</tspan></text>
+    <path
+       id="rect1617-4"
+       style="display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:3.8802;stroke-opacity:1"
+       d="m 1264,0 v 16 h 16 V 0 Z"
+       sodipodi:insensitive="true" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.999999;stroke-opacity:1"
+       id="rect1896"
+       width="1279"
+       height="63"
+       x="0.50000006"
+       y="14.9673" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="1184.9554"
+       y="31.204651"
+       id="text148-7-0-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan5464"
+         x="1184.9554"
+         y="31.204651">Inactivar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="1118.6233"
+       y="31.561035"
+       id="text148-2-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan5466"
+         x="1118.6233"
+         y="31.561035">Sonido:</tspan></text>
+  </g>
+  <metadata
+     id="metadata1684">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Claudio Paniagua</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://artlibre.org/licence/lal">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

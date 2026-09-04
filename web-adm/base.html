@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>MSA:ADM</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <link rel='stylesheet' type='text/css' media='screen' href='btsp/css/bootstrap.css'>
+    <script src='base.js'></script>
+</head>
+
+<body onload="startTime()">
+    <div class="container ">
+        <!--        row 1     -->
+        <div class="row align-items-center">
+            <div class="col">
+                <div class="h1 fw-bold">Proyectos</div>
+            </div>
+            <div class="col text-center">
+                <div class="h1 fw-bold">MSA:ADM</div>
+            </div>
+            <div class="col">
+                <a href="index.html"  class="btn btn-dark text-info fw-bold" id="cExit">Salir</a>
+            </div>
+        </div>
+        <!-- row 2 -->
+        <div class="row align-items-center">
+            <div class="col">
+                <a href="base-new.html"  class="btn btn-dark text-info fw-bold" id="cNew">Nuevo Proyecto</a>
+            </div>
+            <div class="col text-center">
+                <div id="txt" class="font-monospace"></div>
+            </div>
+            <div class="col">
+
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col">
+                <div class="row align-items-center  row-cols-auto">
+                    <div class="col ">
+                        <div class="btn btn-dark text-info fw-bold" id="cPrevius">Anterior</div>
+                    </div>
+                    <div class="col">
+                        <div class="font-monospace" id="tPag">1-10</div>
+                    </div>
+                    <div class="col">
+                        <div class="btn btn-dark text-info fw-bold" id="cNext">Siguiente</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col text-center">
+                <div class="text" style="color: orange;" id="tMessage">
+                    message return from the system
+                </div>
+            </div>
+            <div class="col">
+
+            </div>
+        </div>
+        <hr>
+        <table class="table table-hover ">
+            <thead>
+                <tr>
+                    <th scope="col">Indice</th>
+                    <th scope="col">Estacion</th>
+                    <th scope="col">Creado</th>
+                    <th scope="col">Personal</th>
+                    <th scope="col">Modificado</th>
+                    <th scope="col">Personal</th>
+                    <th scope="col">Espacio de trabajo</th>
+                    <th scope="col">Verificaciones</th>
+                    <th scope="col">Estados</th>
+                </tr>
+            </thead>
+            <tbody style="font-family: 'Courier New', Courier, monospace;" class="table-group-divider">
+                <tr>
+                    <th scope="row">001</th>
+                    <td>
+                        <a href="project-open.html"  class="btn btn-dark text-info btn-disable">ACE</a>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td style="color: orange; font-weight: bold;">Bloqueado por 05313</td>
+                </tr>
+                <tr>
+                    <th scope="row">002</th>
+                    <td>
+                        <div class="btn btn-dark  text-info">ABA</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11900</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Desbloqueado</td>
+                </tr>
+                <tr>
+                    <th scope="row">003</th>
+                    <td>
+                        <div class="btn btn-dark text-info">QUI</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>14010</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Desbloqueado</td>
+                </tr>
+                <tr>
+                    <th scope="row">004</th>
+                    <td>
+                        <div class="btn btn-dark text-info">ACE</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Desbloqueado</td>
+                </tr>
+                <tr>
+                    <th scope="row">005</th>
+                    <td>
+                        <div class="btn btn-dark  text-info">ABA</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11900</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td style="color: orange; font-weight: bold;">Bloqueado por 11975</td>
+                </tr>
+                <tr>
+                    <th scope="row">006</th>
+                    <td>
+                        <div class="btn btn-dark text-info">QUI</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>14010</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Desbloqueado</td>
+                </tr>
+                <tr>
+                    <th scope="row">007</th>
+                    <td>
+                        <div class="btn btn-dark text-info">ACE</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Desbloqueado</td>
+                </tr>
+                <tr>
+                    <th scope="row">008</th>
+                    <td>
+                        <div class="btn btn-dark  text-info">ABA</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11900</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Desbloqueado</td>
+                </tr>
+                <tr>
+                    <th scope="row">009</th>
+                    <td>
+                        <div class="btn btn-dark text-info">QUI</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>14010</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Desbloqueado</td>
+                </tr>
+                <tr>
+                    <th scope="row">010</th>
+                    <td>
+                        <div class="btn btn-dark text-info">ACE</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Desbloqueado</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="text-center font-monospace">
+        Version 0.1.0
+    </div>
+</body>
+
+</html>

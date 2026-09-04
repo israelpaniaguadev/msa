@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="960"
+   viewBox="0 0 1280 959.99999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="disp-comunications.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#b6b6b6"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="1.69375"
+     inkscape:cx="1020.8118"
+     inkscape:cy="165.60886"
+     inkscape:window-width="1600"
+     inkscape:window-height="1092"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5"
+     showguides="true"
+     shape-rendering="auto">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       empspacing="16"
+       originx="0"
+       originy="0"
+       dotted="false"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1376">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop1372" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop1374" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1376"
+       id="linearGradient1378"
+       x1="76.774605"
+       y1="190.19801"
+       x2="263.47772"
+       y2="190.19801"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4,-164)" />
+  </defs>
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.999999"
+       id="rect870"
+       height="959"
+       x="0.5"
+       y="0.5"
+       width="1279"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="footer"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178"
+       width="160"
+       height="32"
+       x="15.890266"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="38.362232"
+       y="940.41162"
+       id="text148-0-1-5-759"><tspan
+         sodipodi:role="line"
+         id="tspan2360"
+         x="38.362232"
+         y="940.41162">Comunicacion</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2"
+       width="160"
+       height="32"
+       x="192.44186"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="233.70584"
+       y="940.4516"
+       id="text148-0-1-5-759-8"><tspan
+         sodipodi:role="line"
+         id="tspan2679"
+         x="233.70584"
+         y="940.4516">Unifilar</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7"
+       width="160"
+       height="32"
+       x="367.64661"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="414.72659"
+       y="940.41162"
+       id="text148-0-1-5-759-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan2681"
+         x="414.72659"
+         y="940.41162">Alarmas</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7-1"
+       width="160"
+       height="32"
+       x="544.10809"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="590.94806"
+       y="940.41162"
+       id="text148-0-1-5-759-8-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan2683"
+         x="590.94806"
+         y="940.41162">Medidas</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7-1-3"
+       width="160"
+       height="32"
+       x="719.65411"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="723.13409"
+       y="940.41162"
+       id="text148-0-1-5-759-8-3-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan2685"
+         x="723.13409"
+         y="940.41162">Datos Historicos</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7-1-3-4"
+       width="160"
+       height="32"
+       x="896.7998"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="943.27979"
+       y="940.04358"
+       id="text148-0-1-5-759-8-3-2-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan2691"
+         x="943.27979"
+         y="940.04358">Eventos</tspan></text>
+    <rect
+       style="display:inline;fill:#333333;stroke:none;stroke-width:1"
+       id="rect2178-2-7-1-3-4-4"
+       width="160"
+       height="32"
+       x="1072.9349"
+       y="918.41162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="1129.4149"
+       y="940.13959"
+       id="text148-0-1-5-759-8-3-2-1-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan2732"
+         x="1129.4149"
+         y="940.13959">Otros</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="body"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="33.310959"
+       y="157.70897"
+       id="text148-0-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan4139">Equipo 01</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="494.46991"
+       y="114.5954"
+       id="text148-0-1-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan2757"
+         x="494.46991"
+         y="114.5954">Estado de Comunicacion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="144.40703"
+       y="156.77591"
+       id="text148-0"><tspan
+         sodipodi:role="line"
+         id="tspan154-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="144.40703"
+         y="156.77591">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="351.56021"
+       y="156.86058"
+       id="text148-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan4174">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="32.847721"
+       y="189.81859"
+       id="text148-0-1-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan4497">Equipo 02</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="143.94379"
+       y="188.88553"
+       id="text148-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff00;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="143.94379"
+         y="188.88553">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="351.09695"
+       y="188.9702"
+       id="text148-0-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan4515">En linea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="32.714817"
+       y="222.96004"
+       id="text148-0-1-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan4499">Equipo 03</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="143.81088"
+       y="222.02698"
+       id="text148-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="143.81088"
+         y="222.02698">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="350.96408"
+       y="222.11165"
+       id="text148-0-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan4174-8"
+         x="350.96408"
+         y="222.11165">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="32.25156"
+       y="255.06966"
+       id="text148-0-1-5-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan4501">Equipo 04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="143.34763"
+       y="254.1366"
+       id="text148-0-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="143.34763"
+         y="254.1366">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="350.50082"
+       y="254.22127"
+       id="text148-0-8-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan4174-9-1"
+         x="350.50082"
+         y="254.22127">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="32.703506"
+       y="285.89404"
+       id="text148-0-1-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan4503">Equipo 05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="143.79958"
+       y="284.961"
+       id="text148-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="143.79958"
+         y="284.961">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="350.95276"
+       y="285.04565"
+       id="text148-0-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan4174-6"
+         x="350.95276"
+         y="285.04565">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="32.240269"
+       y="318.00366"
+       id="text148-0-1-5-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan4505">Equipo 06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="143.33633"
+       y="317.07062"
+       id="text148-0-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="143.33633"
+         y="317.07062">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="350.4895"
+       y="317.15527"
+       id="text148-0-8-2-65"><tspan
+         sodipodi:role="line"
+         id="tspan4174-9-6"
+         x="350.4895"
+         y="317.15527">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="31.977264"
+       y="350.27771"
+       id="text148-0-1-5-93"><tspan
+         sodipodi:role="line"
+         id="tspan4507">Equipo 07</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="143.07333"
+       y="349.34467"
+       id="text148-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="143.07333"
+         y="349.34467">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="350.22653"
+       y="349.42932"
+       id="text148-0-8-25"><tspan
+         sodipodi:role="line"
+         id="tspan4174-4"
+         x="350.22653"
+         y="349.42932">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="31.514027"
+       y="382.38733"
+       id="text148-0-1-5-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan4509">Equipo 08</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="142.61009"
+       y="381.45428"
+       id="text148-0-6-43"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff00;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="142.61009"
+         y="381.45428">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="349.76328"
+       y="381.53894"
+       id="text148-0-8-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan4517">En linea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="31.980097"
+       y="414.65857"
+       id="text148-0-1-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan4511">Equipo 09</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="143.07616"
+       y="413.72549"
+       id="text148-0-84"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="143.07616"
+         y="413.72549">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="350.22934"
+       y="413.81018"
+       id="text148-0-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan4519">Intentando</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="31.516855"
+       y="446.76819"
+       id="text148-0-1-5-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan4513">Equipo 10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+       x="142.61292"
+       y="445.83511"
+       id="text148-0-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="142.61292"
+         y="445.83511">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+       x="349.76608"
+       y="445.9198"
+       id="text148-0-8-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan4523">Sin enlace</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="564.00854"
+       y="157.67532"
+       id="text148-0-1-5-66"><tspan
+         sodipodi:role="line"
+         id="tspan4139-4"
+         x="564.00854"
+         y="157.67532">Equipo 01</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="675.10461"
+       y="156.74228"
+       id="text148-0-95"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="675.10461"
+         y="156.74228">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="882.25781"
+       y="156.82693"
+       id="text148-0-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan4174-87"
+         x="882.25781"
+         y="156.82693">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="563.54529"
+       y="189.78494"
+       id="text148-0-1-5-7-17"><tspan
+         sodipodi:role="line"
+         id="tspan4497-2"
+         x="563.54529"
+         y="189.78494">Equipo 02</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="674.64136"
+       y="188.8519"
+       id="text148-0-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff00;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="674.64136"
+         y="188.8519">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="881.79456"
+       y="188.93655"
+       id="text148-0-8-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan4515-6"
+         x="881.79456"
+         y="188.93655">En linea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="563.41241"
+       y="222.92639"
+       id="text148-0-1-5-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan4499-0"
+         x="563.41241"
+         y="222.92639">Equipo 03</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="674.50848"
+       y="221.99335"
+       id="text148-0-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-4-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="674.50848"
+         y="221.99335">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="881.66168"
+       y="222.078"
+       id="text148-0-8-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan4174-8-9"
+         x="881.66168"
+         y="222.078">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="562.94916"
+       y="255.03601"
+       id="text148-0-1-5-7-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan4501-9"
+         x="562.94916"
+         y="255.03601">Equipo 04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="674.04523"
+       y="254.10297"
+       id="text148-0-6-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="674.04523"
+         y="254.10297">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="881.19843"
+       y="254.18762"
+       id="text148-0-8-2-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan4174-9-1-7"
+         x="881.19843"
+         y="254.18762">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="563.40112"
+       y="285.86041"
+       id="text148-0-1-5-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan4503-1"
+         x="563.40112"
+         y="285.86041">Equipo 05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="674.49719"
+       y="284.92737"
+       id="text148-0-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-2-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="674.49719"
+         y="284.92737">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="881.65033"
+       y="285.01202"
+       id="text148-0-8-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan4174-6-7"
+         x="881.65033"
+         y="285.01202">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="562.93787"
+       y="317.97003"
+       id="text148-0-1-5-7-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan4505-6"
+         x="562.93787"
+         y="317.97003">Equipo 06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="674.03394"
+       y="317.03699"
+       id="text148-0-6-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="674.03394"
+         y="317.03699">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="881.18707"
+       y="317.12164"
+       id="text148-0-8-2-65-6"><tspan
+         sodipodi:role="line"
+         id="tspan4174-9-6-5"
+         x="881.18707"
+         y="317.12164">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="562.67487"
+       y="350.24408"
+       id="text148-0-1-5-93-6"><tspan
+         sodipodi:role="line"
+         id="tspan4507-3"
+         x="562.67487"
+         y="350.24408">Equipo 07</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="673.77094"
+       y="349.31104"
+       id="text148-0-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="673.77094"
+         y="349.31104">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="880.92413"
+       y="349.39569"
+       id="text148-0-8-25-8"><tspan
+         sodipodi:role="line"
+         id="tspan4174-4-1"
+         x="880.92413"
+         y="349.39569">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="562.21161"
+       y="382.35367"
+       id="text148-0-1-5-7-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan4509-9"
+         x="562.21161"
+         y="382.35367">Equipo 08</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="673.30768"
+       y="381.42062"
+       id="text148-0-6-43-3"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff00;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="673.30768"
+         y="381.42062">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="880.46088"
+       y="381.50528"
+       id="text148-0-8-2-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan4517-8"
+         x="880.46088"
+         y="381.50528">En linea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="562.67767"
+       y="414.62491"
+       id="text148-0-1-5-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan4511-5"
+         x="562.67767"
+         y="414.62491">Equipo 09</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="673.77374"
+       y="413.69186"
+       id="text148-0-84-0"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="673.77374"
+         y="413.69186">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="880.92694"
+       y="413.77652"
+       id="text148-0-8-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan4519-3"
+         x="880.92694"
+         y="413.77652">Intentando</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="562.21442"
+       y="446.73453"
+       id="text148-0-1-5-7-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan4513-5"
+         x="562.21442"
+         y="446.73453">Equipo 10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+       x="673.31049"
+       y="445.80148"
+       id="text148-0-6-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-8-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="673.31049"
+         y="445.80148">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+       x="880.46368"
+       y="445.88614"
+       id="text148-0-8-2-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan4523-5"
+         x="880.46368"
+         y="445.88614">Sin enlace</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="30.151823"
+       y="529.07965"
+       id="text148-0-1-5-93-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan4507-3-8"
+         x="30.151823"
+         y="529.07965">Equipo 07</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="141.24789"
+       y="528.14661"
+       id="text148-0-4-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-5-4-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="141.24789"
+         y="528.14661">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0000;fill-opacity:1"
+       x="348.40109"
+       y="528.23126"
+       id="text148-0-8-25-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan4174-4-1-0"
+         x="348.40109"
+         y="528.23126">En falla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="29.688566"
+       y="561.18921"
+       id="text148-0-1-5-7-7-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan4509-9-0"
+         x="29.688566"
+         y="561.18921">Equipo 08</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="140.78464"
+       y="560.25616"
+       id="text148-0-6-43-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-0-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff00;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="140.78464"
+         y="560.25616">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ff00;fill-opacity:1"
+       x="347.93784"
+       y="560.34082"
+       id="text148-0-8-2-7-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan4517-8-4"
+         x="347.93784"
+         y="560.34082">En linea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="30.154631"
+       y="593.46045"
+       id="text148-0-1-5-6-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan4511-5-6"
+         x="30.154631"
+         y="593.46045">Equipo 09</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="141.2507"
+       y="592.5274"
+       id="text148-0-84-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-3-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="141.2507"
+         y="592.5274">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="348.4039"
+       y="592.61206"
+       id="text148-0-8-1-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan4519-3-5"
+         x="348.4039"
+         y="592.61206">Intentando</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#999999;fill-opacity:1"
+       x="29.691374"
+       y="625.57007"
+       id="text148-0-1-5-7-2-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan4513-5-6"
+         x="29.691374"
+         y="625.57007">Equipo 10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+       x="140.78745"
+       y="624.63702"
+       id="text148-0-6-6-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan154-6-1-8-1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         x="140.78745"
+         y="624.63702">dd-mm-yyyy HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff00ff;fill-opacity:1"
+       x="347.94064"
+       y="624.72168"
+       id="text148-0-8-2-9-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan4523-5-8"
+         x="347.94064"
+         y="624.72168">Sin enlace</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="header"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#483737;fill-opacity:1;stroke:none;stroke-width:3.8802;stroke-opacity:1"
+       id="rect1617"
+       width="1280"
+       height="16"
+       x="0"
+       y="0" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-opacity:1"
+       id="rect1896-2"
+       width="499"
+       height="63"
+       x="390.5"
+       y="15.376877" />
+    <g
+       id="g900"
+       transform="matrix(0.56868431,0,0,1,-28.40843,-143.99219)"
+       style="display:inline;stroke-width:1.32606">
+      <rect
+         style="fill:#f9f9f9;stroke:none;stroke-width:1.32606"
+         id="rect421"
+         width="118.24286"
+         height="48"
+         x="59.342789"
+         y="167.20952" />
+      <rect
+         style="display:inline;fill:#aa0000;stroke:none;stroke-width:1.32606"
+         id="rect421-3"
+         width="118.24286"
+         height="14"
+         x="59.342789"
+         y="166.08571" />
+      <rect
+         style="display:inline;fill:#000080;stroke:none;stroke-width:1.32606"
+         id="rect421-3-6"
+         width="118.24286"
+         height="14"
+         x="59.342789"
+         y="201.20952" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';display:inline;fill:#808000;stroke:none"
+       x="15.560303"
+       y="52.741547"
+       id="text956"><tspan
+         sodipodi:role="line"
+         id="tspan954"
+         x="15.560303"
+         y="52.741547"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none">ANDE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="159.89178"
+       y="32.612083"
+       id="text148"><tspan
+         sodipodi:role="line"
+         id="tspan5470">01-12-2023 19:33:54</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:monospace;-inkscape-font-specification:'monospace, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="488.19992"
+       y="53.630878"
+       id="text-title"
+       inkscape:label="text-title"><tspan
+         sodipodi:role="line"
+         id="tspan2002"
+         x="488.19992"
+         y="53.630878">{nombre-de-la-estacion}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="160.0067"
+       y="60.41853"
+       id="text148-7"><tspan
+         sodipodi:role="line"
+         id="tspan1791"
+         x="160.0067"
+         y="60.41853">XxxxxxxxxxxXxxxx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="1000.2848"
+       y="59.336258"
+       id="text148-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan5468">Urgente</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="1001.0167"
+       y="31.590004"
+       id="text148-7-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan5282">Telemando</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f9f9f9;fill-opacity:1"
+       x="31.053823"
+       y="13.910095"
+       id="text148-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan1902"
+         x="31.053823"
+         y="13.910095">MSA v24</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="97.206711"
+       y="32.612083"
+       id="text148-2"><tspan
+         sodipodi:role="line"
+         id="tspan1563"
+         x="97.206711"
+         y="32.612083">Fecha:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="78.006699"
+       y="60.41853"
+       id="text148-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan1739"
+         x="78.006699"
+         y="60.41853">Usuario:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="918.68457"
+       y="31.94639"
+       id="text148-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan2124"
+         x="918.68457"
+         y="31.94639">Control:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="928.28473"
+       y="59.336258"
+       id="text148-2-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan2195"
+         x="928.28473"
+         y="59.336258">Alarma:</tspan></text>
+    <path
+       id="rect1617-4"
+       style="display:inline;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:3.8802;stroke-opacity:1"
+       d="m 1264,0 v 16 h 16 V 0 Z"
+       sodipodi:insensitive="true" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.999999;stroke-opacity:1"
+       id="rect1896"
+       width="1279"
+       height="63"
+       x="0.50000006"
+       y="14.9673" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;fill-opacity:1"
+       x="1184.9554"
+       y="31.204651"
+       id="text148-7-0-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan5464"
+         x="1184.9554"
+         y="31.204651">Inactivar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#b3b3b3;fill-opacity:1"
+       x="1118.6233"
+       y="31.561035"
+       id="text148-2-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan5466"
+         x="1118.6233"
+         y="31.561035">Sonido:</tspan></text>
+  </g>
+  <metadata
+     id="metadata1684">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Claudio Paniagua</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://artlibre.org/licence/lal">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

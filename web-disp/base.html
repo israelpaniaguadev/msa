@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MSA:DISP</title>
+    <link rel="stylesheet" href="btsp/css/bootstrap.min.css">
+</head>
+
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
+        <div class="container-fluid">
+            <a class="navbar-brand">MSA</a>
+            <button class="navbar-toggler" type="button" data-bs-toogle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <!-- menu of alarms -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Alarmas</a>
+                    </li>
+                    <!-- menu of measurements -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink-M" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">Mediciones</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-M">
+                            <li><a class="dropdown-item" href="#">Medidas General</a></li>
+                            <li><a class="dropdown-item" href="#">Medidas Lado 500kV</a></li>
+                            <li><a class="dropdown-item" href="#">Medidas Lado 220kV</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#">Medidas Lado 23kV A</a></li>
+                            <li><a class="dropdown-item" href="#">Medidas Lado 23kV B</a></li>
+                        </ul>
+                    </li>
+                    <!-- menu unifilares -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink-U" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">Unifilares</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-U">
+                            <li><button class="btn dropdown-item" id="btn-pag-one">General</button></li>
+                            <li><a class="dropdown-item" id="btn-pag-two">Lado 500kV</a></li>
+                            <li><a class="dropdown-item" href="u-pag-three">Lado 220kV</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#u-pag-four">Lado 23kV A</a></li>
+                            <li><a class="dropdown-item" href="#u-pag-five">Lado 23kV B</a></li>
+                        </ul>
+                    </li>
+                    <!-- menu sistemas -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink-S" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">Sistema⚙️</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink-S">
+                            <li><a class="dropdown-item" href="#">Arquitectura</a></li>
+                            <li><a class="dropdown-item" href="#">Comunicaciones</a></li>
+                            <li><a class="dropdown-item" href="#">Eventos</a></li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#">Cerrar Session</a>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#">Reiniciar</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="d-flex ">
+                    <span class="navbar-text me-2 ">Alarmas:</span>
+                    <button class="btn btn-dark text-info" id="btnAlarms">Reconocer</button>
+                    <span class="navbar-text me-2">Control:</span>
+                    <button class="btn btn-dark text-info text-start  custom-button-local"
+                        id="btnTelemando">Telemando</button>
+                    <span class="navbar-text me-2">Sonido:</span>
+                    <button class="btn btn-dark text-info" id="btnSound">Silenciar</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid text-center bg-secondary">
+        <div class="h2">XxxxxxxxxxXxxxxxxxxxXxxxxxxxxx</div>
+    </div>
+    <div class="container-fluid" id="u-pag-one">
+        <img src="../filesvg/unifilar-generic.svg" alt="Descripción del SVG" class="img-fluid">
+        <div class="container-fluid mt-4" id="myTable">
+            <table class="table table-sm table-bordered">
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Descripción</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody id="tabla-datos">
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container-fluid" id="u-pag-two" style="display: none;">
+        U-PAG-TWO
+    </div>
+</body>
+<footer class="mt-auto bg-secondary">
+    <div class="row">
+        <div class="col">
+            <span class="text-dark">Usuario:</span>
+            <span id="idUserName" class="text-white">XxxxxxxxxxXxxxx</span>
+            <span class="text-dark">Fecha</span>
+            <span id="idDateTime" class="text-white"></span>
+        </div>
+    </div>
+</footer>
+<!-- resources of application -->
+<script src="btsp/js/bootstrap.bundle.min.js"></script>
+<!-- -->
+<script>
+    /*
+         
+       alarm button
+               */
+    const btnAlarms = document.getElementById('btnAlarms');
+    btnAlarms.addEventListener('click', function () {
+        if (this.classList.contains('btn-dark')) {
+            this.classList.remove('btn-dark');
+            this.classList.add('btn-danger');
+            this.classList.remove('text-info');
+            this.classList.add('text-white');
+        } else {
+            this.classList.remove('btn-danger');
+            this.classList.add('btn-dark');
+            this.classList.remove('text-white');
+            this.classList.add('text-dark');
+        }
+    });
+
+    const boton = document.getElementById("btnTelemando");
+    boton.addEventListener('click', function () {
+        if (boton.textContent === 'Telemando') {
+            boton.textContent = 'Local';
+            boton.style = 'btn btn-success';
+        } else {
+            boton.textContent = 'Telemando';
+        }
+        if (this.classList.contains('btn-dark')) {
+            this.classList.remove('btn-dark');
+            this.classList.add('btn-danger');
+            this.classList.remove('text-info');
+            this.classList.add('text-white');
+        } else {
+            this.classList.remove('btn-danger');
+            this.classList.add('btn-dark');
+            this.classList.remove('text-white');
+            this.classList.add('text-info');
+        }
+    });
+
+    /* 
+    sound button
+            */
+    const btnSound = document.getElementById('btnSound');
+    btnSound.addEventListener('click', function () {
+        if (this.classList.contains('btn-dark')) {
+            this.classList.remove('btn-dark');
+            this.classList.add('btn-danger');
+            this.classList.remove('text-info');
+            this.classList.add('text-white');
+        } else {
+            this.classList.remove('btn-danger');
+            this.classList.add('btn-dark');
+            this.classList.remove('text-white');
+            this.classList.add('text-dark');
+        }
+    });
+
+
+    /*
+    Date and time
+    */
+
+    function msaDateTime() {
+        const getDateTimeElement = document.getElementById("idDateTime");
+        const ahora = new Date();
+        const dia = String(ahora.getDate()).padStart(2, '0');
+        const mes = String(ahora.getMonth() + 1).padStart(2, '0');
+        const anio = ahora.getFullYear();
+        const horas = String(ahora.getHours()).padStart(2, '0');
+        const minutos = String(ahora.getMinutes()).padStart(2, '0');
+        const segundos = String(ahora.getSeconds()).padStart(2, '0');
+        const fechaHoraFormateada = `${dia}/${mes}/${anio} ${horas}:${minutos}:${segundos}`;
+        getDateTimeElement.textContent = fechaHoraFormateada;
+
+    }
+    setInterval(msaDateTime, 1000);
+    msaDateTime();
+
+    document.addEventListener('DOMContentLoaded', function () {
+        const datos = [
+            { fecha: '2023-10-26', descripcion: 'Tarea 1', id: 1 },
+            { fecha: '2023-10-27', descripcion: 'Tarea 2', id: 2 },
+            { fecha: '2023-10-28', descripcion: 'Tarea 3', id: 3 },
+            { fecha: '2023-10-28', descripcion: 'Tarea 4', id: 4 }
+        ];
+
+        const tablaDatos = document.getElementById('tabla-datos');
+
+        datos.forEach(dato => {
+            const fila = document.createElement('tr');
+            fila.innerHTML = `
+            <td>${dato.fecha}</td>
+            <td>${dato.descripcion}</td>
+            <td><button class="btn btn-sm btn-dark btn-info" onclick="eliminarFila(${dato.id})">Reconocer</button></td>
+        `;
+            tablaDatos.appendChild(fila);
+        });
+    });
+
+    document.getElementById('btn-pag-one').addEventListener('click', function () {
+        var contendor = document.getElementById('u-pag-one');
+        if (contendor.style.display === 'none') {
+            contendor.style.display = 'block';
+        } else {
+            contendor.style.display = 'none';
+        }
+    });
+
+    document.getElementById('btn-pag-two').addEventListener('click', function () {
+        var contendor = document.getElementById('u-pag-two');
+        if (contendor.style.display === 'none') {
+            contendor.style.display = 'block';
+        } else {
+            contendor.style.display = 'none';
+        }
+    });
+
+
+</script>
+<!-- resources of application -->
+<style>
+    footer {
+        padding: 8px 8px;
+        text-align: left;
+        /* Alinea el texto a la izquierda */
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+
+    .form-check-input[type="checkbox"][role="switch"]:checked {
+        background-color: var(--bs-info);
+        border-color: var(--bs-white);
+    }
+
+    .form-check-input[type="checkbox"][role="switch"] {
+        border-color: var(--bs-secondary);
+    }
+
+    .custom-button-local {
+        /* Ancho fijo */
+        width: 120px;
+    }
+</style>
+
+</html>

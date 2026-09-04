@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>NOCSC</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <link rel='stylesheet' type='text/css' media='screen' href='btsp/css/bootstrap.css'>
+    <script src='base.js'></script>
+</head>
+
+<body onload="startTime()">
+    <div class="container ">
+        <!--        row 1     -->
+        <div class="row align-items-center">
+            <div class="col col-auto">
+                <div class="h1 fw-bold">NOCSC</div>
+            </div>
+            <div class="col text-center">
+                <div class="h2 fw-bold">Eventos</div>
+            </div>
+            <div class="col col-auto">
+                <div class="row">
+                    <div class="col">
+                        <div class="col fw-bold">Personal</div>
+                        <div class="col col-auto text-secondary-emphasis">
+                            11975
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="col fw-bold">Fecha y hora</div>
+                        <div class="col  col-auto text-secondary-emphasis">
+                            <div id="txt" class="font-monospace"></div>
+                        </div>
+                    </div>
+
+                    <div class="col col-auto">
+                        <a href="index.html" class="btn btn-dark text-info fw-bold" id="cExit">Salir</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- row 2 -->
+        <div class="row align-items-center">
+            <div class="col col-auto fw-bold">Menu</div>
+            <div class="col col-auto">
+                <a href="base-new.html" class="btn btn-dark text-info fw-bold" id="cNew">Registrar</a>
+            </div>
+            <div class="col">
+                <a href="" class="btn btn-dark text-info fw-bold" id="cMenu2">menu-2</a>
+            </div>
+            <div class="col"></div>
+            <div class="col col-auto">
+                <a href="" class="btn btn-dark text-info fw-bold" id="cConfig">Parametros</a>
+            </div>
+
+        </div>
+        <hr>
+        <!-- row-3   -->
+        <div class="row align-items-center">
+            <div class="col col-auto fw-bold">Pag.</div>
+            <div class="col col-auto">
+                <div class="btn btn-dark text-info fw-bold" id="cPrevius">Anterior</div>
+            </div>
+            <div class="col col-auto text-secondary-emphasis">
+                <div class="font-monospace" id="tPag">1-10</div>
+            </div>
+            <div class="col col-auto">
+                <div class="btn btn-dark text-info fw-bold" id="cNext">Siguiente</div>
+            </div>
+        </div>
+        <!--   tablas  -->
+        <table class="table table-hover ">
+            <thead>
+                <tr>
+                    <th scope="col">Caso Nro.</th>
+                    <th scope="col">Estado</th>
+                    <th scope="col">Fch. Inicio</th>
+                    <th scope="col">Fch. Fin</th>
+                    <th scope="col">Fibra Optica</th>
+                    <th scope="col">Microondas</th>
+                    <th scope="col">Equipo</th>
+                    <th scope="col">Incidencia</th>
+                </tr>
+            </thead>
+            <tbody style="font-family: 'Courier New', Courier, monospace;" class="table-group-divider">
+                <tr>
+                    <th scope="row">
+                        <a href="project-open.html" class="btn btn-dark text-info btn-disable">2423322</a>
+                    </th>
+                    <td style="color: red; font-weight: bold;">Critico</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>HOR_REP_YBY_ADSS1</td>
+                    <td></td>
+                    <td></td>
+                    <td>Equipo - Desconocido</td>
+                </tr>
+                <tr>
+                    <th scope="row">002</th>
+                    <td>
+                        <div class="btn btn-dark  text-info">ABA</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11900</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">003</th>
+                    <td>
+                        <div class="btn btn-dark text-info">QUI</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>14010</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">004</th>
+                    <td>
+                        <div class="btn btn-dark text-info">ACE</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">005</th>
+                    <td>
+                        <div class="btn btn-dark  text-info">ABA</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11900</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td style="color: blueviolet; font-weight: bold;">Lock by 11975</td>
+                </tr>
+                <tr>
+                    <th scope="row">006</th>
+                    <td>
+                        <div class="btn btn-dark text-info">QUI</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>14010</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">007</th>
+                    <td>
+                        <div class="btn btn-dark text-info">ACE</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">008</th>
+                    <td>
+                        <div class="btn btn-dark  text-info">ABA</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11900</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">009</th>
+                    <td>
+                        <div class="btn btn-dark text-info">QUI</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>14010</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">010</th>
+                    <td>
+                        <div class="btn btn-dark text-info">ACE</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">011</th>
+                    <td>
+                        <div class="btn btn-dark  text-info">ABA</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11900</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+                <tr>
+                    <th scope="row">012</th>
+                    <td>
+                        <div class="btn btn-dark text-info">QUI</div>
+                    </td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>14010</td>
+                    <td>01-12-2023 23:59:00</td>
+                    <td>11975</td>
+                    <td>WSP2</td>
+                    <td>1025</td>
+                    <td>Unlock</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="text-center">
+            control de version y derecho
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>

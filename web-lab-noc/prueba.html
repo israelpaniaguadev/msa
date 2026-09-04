@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='btsp/css/bootstrap.css'>
+    <script src='base.js'></script>
+    <script src='load.js'></script>
+</head>
+
+<body>
+    <div id="txt" class="font-monospace"></div>
+    <button onclick="setStart()">start</button>
+    <button onclick="setStop()">stop</button>
+
+    <div class="progress col-1" style="height: 20px;">
+        <div class="progress-bar  text-bg-info"></div>
+    </div>
+
+    <button onclick="pBar()">Start Download</button>
+
+</body>
+<style>
+    #Progress_Status {
+        width: 100px;
+        background-color: #ddd;
+    }
+
+    #myprogressBar {
+        width: 2%;
+        height: 8px;
+        background-color: #4CAF50;
+    }
+</style>
+
+</html>
