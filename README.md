@@ -7,8 +7,6 @@ title: MSA 180
 Desarrollando el sistema scada **M**odulo **S**cada para la **A**nde (MSA 180).
 *"Energía que transforma, supervisión que lidera."*
 
-## 1. Introduccion
-
 Actualmente en la ANDE se dispone de varias marcas del Scada Local, lo cual conlleva a tener variadas formas de configurarlos segun los procedimientos dados por el fabricante. Esto genera un problema al momento de mantener e inclusive de actualizar nuevas senalizaciones del scada.
 
 Para poder disponer de un Scada Local, es necesario establecer los requerimientos generales y especificos para cada arquitectura, configuracion y tamano de software que se desea aplicar. Los requerimientos estan orientados de lo general a lo especifico y luego desprendiendose para cada caso con algunas excepciones que hubiere.
@@ -17,13 +15,13 @@ El objetivo general para el desarrollo de este Scada es que la ANDE disponga de 
 
 El software debe de poder adquirir senalizaciones desde ciertos protocolos de comunicacion utilizados en la ANDE, monitorear y comandar desde la pantalla de una computadora hacia los diferentes equipos de adquisicion configurados, indicar las mediciones consultadas en los multimedidores, almacenar todos los eventos y las alarmas que ocurriesen y registrar en archivos logs datos e informacion que sirvan para un posterior analisis en casos de fallos.
 
-## 2. Personal involucrado
+# 2. Personal involucrado
 
 El personal involucrado corresponde al Departamento de Mantenimiento de Sistemas de Control, de las Seccion de 
 Sistemas de Control indicados por sus siglas DTE/MCO2, pudiendose extender a otros desarrolladores de la ANDE que 
 quisieran participar.
 
-## 3. Restricciones de diseño e implementación
+# 3. Restricciones de diseño e implementación
 
 Las limitantes para esta primera version del software, van relacionadas a la capacidad cuantitativa de los registros y de los puntos de adquisicion.
 
@@ -45,24 +43,27 @@ Las limitantes para esta primera version del software, van relacionadas a la cap
 
 Los demas protocolos y esclavos que no se tipifican en este apartado son descartados por no ser de uso comun en la ANDE. Sin embargo se puede realizar el analisis de factibilidad para nuevos protocolos.
 
-## 4. Disposiciones de las interfaces
+# 4. Disposiciones de las interfaces
 
-### 4.1. Interfaz para el usuario operador
+## 4.1. Interfaz para el usuario operador
 
 Debe de contar con dos monitores con una resolución de relación **16:9 1280x720 | 1920x1080**. Esto es mandatorio para evitar configuraciones complicada en las resoluciones de las pantallas y poder mantener siempre una estandarización del tamaño y disposición de los despliegues y sus objetos en la pantalla.
 
 Las aplicaciones que se tiene para esto son:
 
-1. Interfaz de Despliegue, **Display Interface [MSA:DISP]**. Esta interfaz será en entorno Desktop en el lenguaje JavaFX. Contiene todos los despliegues a visualizarse en pantallas.
+1. Interfaz de Despliegue, **Display Interface [MSA-DISP]**. Esta interfaz será en entorno Desktop en el lenguaje JavaFX. Contiene todos los despliegues a visualizarse en pantallas.
 
-2. Interfaz para el Registro Histórico, **Interface for the Historical Record [MSA:HIST]**. Esta interfaz será en entorno web en el lenguaje Javaserver Faces. Permite acceder a los datos almacenados en el servidor.
+2. Interfaz para el Registro Histórico, **Interface for the Historical Record [MSA-HIST]**. Esta interfaz será en entorno web en el lenguaje Javaserver Faces. Permite acceder a los datos almacenados en el servidor.
 
-### 4.2. Interfaz para el usuario administrador
+## 4.2. Interfaz para el usuario administrador
 
-1. Interfaz para la Administración y el Mantenimiento, **Interface For Administration And Maintenance [MSA:ADM]**. Esta interfaz será en entorno web en el lenguaje Javaserver Faces.
-2. Intefaz para Contenedor de aplicaciones y ultimas actualizaciones **Interface For The Application Repositroy [MSA:REP]**. Esta interfaz sera en entorno web y contiene la ultima aplicacion del sistema, haciendo que todas las demas maquinas se actualicen automaticamente.
+1. Interfaz para la Administración y el Mantenimiento, **Interface For Administration And Maintenance [MSA-ADM]**. Esta interfaz será en entorno web en el lenguaje Javaserver Faces.
+2. Interfaz para Contenedor de aplicaciones y ultimas actualizaciones **Interface For The Application Repository 
+   [MSA-REP]**. Esta interfaz sera en entorno web y contiene la ultima aplicacion del sistema, haciendo que todas las demas maquinas se actualicen automaticamente.
 
-### 4.3. Interfaz del hardware
+## 4.3. Interfaz para el usuario implementador
+
+## 4.4. Interfaz del hardware
 
 Los requisitos basicos del hardware son:
 
@@ -73,7 +74,7 @@ Los requisitos basicos del hardware son:
 | Procesador      | i3 2,4 Ghz o superior                                                                        |
 | Tarjetas de red | Eth0 10/100 Mbps (3); uno para la red local, uno para la red scada y uno para la redundancia |
 
-### 4.4. Interfaz del software
+## 4.5. Interfaz del software
 
 Los requisitos de software son:
 
@@ -87,44 +88,7 @@ Los requisitos de software son:
 | Lenguaje C, Golang       | para los modulos del driver y servicios APIs                     |
 | PostgreSQL 15            | para el entorno del historico; pgadmin4 (solo para desarrollo)   |
 
-### 4.5. Interfaces de las comunicaciones
+## 4.6. Interfaces de las comunicaciones
 
 Describir los requisitos de las interfaces de comunicación si hay comunicaciones con otros sistemas y cuáles son los protocolos de comunicación.
 
-## 5. Convenciones
-
-### 5.1. Algunas definiciones
-
-* **Deficiones del sistema**
-
-| Sigla | Definicion                           |
-|:------|--------------------------------------|
-| HMI   | Human Machine Interface              |
-| OIT   | Operator Interface Terminal          |
-| PCLD  | Process Control Logic Description    |
-| PPC   | Programable Process Controller       |
-| SDB   | Scada Data Base                      |
-| SHW   | Scada Host Worstation                |
-| SOW   | Scada Operator Workstation           |
-| TSNC  | Tagname and Signal Naming Convention |
-
-* **Deficiones de los niveles de las senhales**
-
-| Sigla | Definicion |
-|:-----:|------------|
-|   G   | Generic    |
-|   P   | Principal  |
-|   S   | Secondary  |
-
-* **Deficiones de los tipos de senhalizaciones**
-
-| Sigla | Definicion             | Grupo     |
-|:------|:-----------------------|:----------|
-| AI:N  | Analog Input Normal    | Analogs   |
-| AI:S  | Analog Input Scale     | Analogs   |
-| AO:N  | Analog Output Normal   | SetPoints |
-| AO:S  | Analog Output Scale    | SetPoints |
-| DI:D  | Discrete Input Doble   | Discretes |
-| DI:S  | Discrete Input Simple  | Discretes |
-| DO:D  | Discrete Output Doble  | Commands  |
-| DO:S  | Discrete Output Simple | Commands  |
