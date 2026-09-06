@@ -4,7 +4,7 @@ title: MSA 180
 
 # Proyecto MSA
 
-Desarrollando el sistema scada **M**odulo **S**cada para la **A**nde (MSA 180).
+Desarrollando el sistema **M**odulo **S**cada para la **A**nde (MSA 180).
 *"Energía que transforma, supervisión que lidera."*
 
 Actualmente en la ANDE se dispone de varias marcas del Scada Local, lo cual conlleva a tener variadas formas de configurarlos segun los procedimientos dados por el fabricante. Esto genera un problema al momento de mantener e inclusive de actualizar nuevas senalizaciones del scada.
