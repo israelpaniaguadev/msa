@@ -5,36 +5,38 @@ title: MSA 180
 # Proyecto MSA
 
 Desarrollando el sistema **M**odulo **S**cada para la **A**nde (MSA 180).
+
 *"Energía que transforma, supervisión que lidera."*
 
-Actualmente en la ANDE se dispone de varias marcas del Scada Local, lo cual conlleva a tener variadas formas de configurarlos segun los procedimientos dados por el fabricante. Esto genera un problema al momento de mantener e inclusive de actualizar nuevas senalizaciones del scada.
+Actualmente en la ANDE se dispone de varias marcas del Scada, lo cual conlleva a tener variadas formas de configurarlos según los procedimientos dados por el fabricante. Esto genera un problema al momento de mantener e inclusive de actualizar nuevas senalizaciones del scada.
+//todo hablar sobre el impacto de la producción, utilidades en el área eléctrica, estudios que proporcionan los datos
 
-Para poder disponer de un Scada Local, es necesario establecer los requerimientos generales y especificos para cada arquitectura, configuracion y tamano de software que se desea aplicar. Los requerimientos estan orientados de lo general a lo especifico y luego desprendiendose para cada caso con algunas excepciones que hubiere.
+Para poder disponer de un Scada, es necesario establecer los requerimientos generales y especificos para cada arquitectura, configuración y tamaño de software que se desea aplicar. Los requerimientos estan orientados de lo general a lo específico y luego desprendiendose para cada caso con algunas excepciones que hubiere.
 
-El objetivo general para el desarrollo de este Scada es que la ANDE disponga de su propio software configurable para uso en campo en las Estaciones Electricas que asi lo requieran.
+El objetivo general para el desarrollo de este Scada es que la ANDE disponga de su propio software configurable para su uso en campo en las Estaciones Electricas que asi lo requieran. //todo hablar de disponer propio hardware y propio protocolo de comunicación 
 
-El software debe de poder adquirir senalizaciones desde ciertos protocolos de comunicacion utilizados en la ANDE, monitorear y comandar desde la pantalla de una computadora hacia los diferentes equipos de adquisicion configurados, indicar las mediciones consultadas en los multimedidores, almacenar todos los eventos y las alarmas que ocurriesen y registrar en archivos logs datos e informacion que sirvan para un posterior analisis en casos de fallos.
+El software debe de poder adquirir senalizaciones desde ciertos protocolos de comunicacion utilizados en la ANDE, monitorear y comandar desde la pantalla de una computadora hacia los diferentes equipos de adquisición configurados, indicar las mediciones consultadas en los multimedidores, almacenar todos los eventos y las alarmas que ocurriesen y registrar en archivos logs datos e informaciones que sirvan para un posterior análisis en casos de fallos.
 
 # 2. Personal involucrado
 
-El personal involucrado corresponde al Departamento de Mantenimiento de Sistemas de Control, de las Seccion de 
+El personal involucrado corresponde al Departamento de Mantenimiento de Sistemas de Control, de la Sección de 
 Sistemas de Control indicados por sus siglas DTE/MCO2, pudiendose extender a otros desarrolladores de la ANDE que 
-quisieran participar.
+quisieran participar. // todo indicar que debe haber una debida autorización 
 
 # 3. Restricciones de diseño e implementación
 
-Las limitantes para esta primera version del software, van relacionadas a la capacidad cuantitativa de los registros y de los puntos de adquisicion.
+Las limitantes para esta primera versión del software, van relacionadas a la capacidad cuantitativa de los registros y de los puntos de adquisición.
 
 * **Tabla de cantidad de equipos**
 
-| Descripcion                                |      Valores |
+| Descripción                                |      Valores |
 |--------------------------------------------|-------------:|
 | La máxima cantidad de señales soportadas   | 8.000 puntos |
 | La máxima cantidad de monitores soportados |   2 unidades |
 
-* **Tabla de cantidad de protocolos y sus registros maximos**
+* **Tabla de cantidad de protocolos y sus registros máximos**
 
-| Descripcion                                                         | Cantidad de controlador | Valores maximos                                   |
+| Descripción                                                         | Cantidad de controlador | Valores maximos                                   |
 |---------------------------------------------------------------------|------------------------:|---------------------------------------------------|
 | La máxima cantidad de usos del protocolo Modbus                     |             20 unidades | máximo 20 registros por cada controlador          |
 | La máxima cantidad de usos del protocolo IEC-61850 Cliente/Servidor |             15 unidades | máximo 250 registros por cada controlador         |
