@@ -1,3 +1,4 @@
-.vscode/
-web/
-filesvg/
+.vscode
+web
+filesvg
+.idea
